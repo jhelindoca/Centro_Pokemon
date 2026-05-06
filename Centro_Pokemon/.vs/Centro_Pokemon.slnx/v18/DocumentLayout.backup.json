@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jhemily.lslauro\\Documents\\Centro_Pokemon\\Centro_Pokemon\\Centro_Pokemon\\Program.cs",
               "RelativeDocumentMoniker": "Centro_Pokemon\\Program.cs",
-              "ToolTip": "C:\\Users\\jhemily.lslauro\\Documents\\Centro_Pokemon\\Centro_Pokemon\\Centro_Pokemon\\Program.cs*",
-              "RelativeToolTip": "Centro_Pokemon\\Program.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDwAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jhemily.lslauro\\Documents\\Centro_Pokemon\\Centro_Pokemon\\Centro_Pokemon\\Program.cs",
+              "RelativeToolTip": "Centro_Pokemon\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwv2cAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T11:30:59.496Z",
               "EditorCaption": ""
